@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2024-5-16 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
-My very first paper is accepted at ACL'24 main conference! Grateful to my first author and mentor, Yuxin :white_heart: 
+My very first paper is accepted at ACL'24 main conference! Grateful to my first author and mentor, Yuxin :white_heart:
