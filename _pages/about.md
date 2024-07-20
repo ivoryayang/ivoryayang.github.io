@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ivory.yang.gr [at] dartmouth.edu</p>
+    <p style="font-size: 0.8em;">ivory.yang.gr [at] dartmouth.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
