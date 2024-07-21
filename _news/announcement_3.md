@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My very first paper is accepted at ACL'24 main conference! Grateful to my first author and mentor, Yuxin :white_heart:
+My very first paper is accepted at ACL'24 main conference! Grateful to my first author, Yuxin :pink_heart:
