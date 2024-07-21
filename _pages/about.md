@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-(Hello!) Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Master’s student in Computer Science at Dartmouth, where I am part of the Minds, Machines and Society lab led by Professor Soroush Vosoughi. My research focuses on Natural Language Processing and AI Alignment, particularly in the detection of persuasion and enhancing LLM defenses against persuasion attempts. I was also part of the Spring 2024 cohort for Supervised Program for Alignment Research (SPAR) organized by UC Berkeley, where I conducted work on activation steering vectors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In what feels like a different lifetime, I received my Bachelor’s of Business Administration and Bachelor’s of Science in Cognitive Science from the University of Michigan. I worked briefly in finance and start-ups in San Francisco, where I was influenced by the vibrant and burgeoning tech culture. My professional network inspired me to start taking Computer Science courses for academic credit at both Harvard University and Stanford University, before I decisively made the leap of faith to return to school.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Given my rather unconventional foray into the research world, I am always excited to connect with others and hear from different perspectives. I also firmly believe in the power of collaboration to advance research and innovation, so feel free to reach out if you would like to collaborate!
