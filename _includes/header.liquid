@@ -60,6 +60,11 @@
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
             {% if p.nav and p.autogen == null %}
+              {% if p.title == "CV" and p.cv_pdf %}
+                <li class="nav-item {% if page.url contains p.url %}active{% endif %}">
+                  <a class="nav-link" href="{{ '/assets/pdf/' | append: p.cv_pdf | relative_url }}" target="_blank">{{ p.title }}</a>
+                </li>
+              {% endif %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}

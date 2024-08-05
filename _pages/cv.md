@@ -1,8 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-# redirect_to: /assets/pdf/resumeIY.pdf  # Direct redirect to the PDF
-title: cv
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: resumeIY.pdf
