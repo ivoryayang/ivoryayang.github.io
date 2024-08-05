@@ -1,11 +1,11 @@
 ---
-layout: null #cv
+layout: cv
 permalink: /cv/
-redirect_to: /assets/pdf/resumeIY.pdf  # Direct redirect to the PDF
+# redirect_to: /assets/pdf/resumeIY.pdf  # Direct redirect to the PDF
 title: cv
 nav: true
 nav_order: 5
-# cv_pdf: resumeIY.pdf
+cv_pdf: resumeIY.pdf
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 # toc:
 #   sidebar: left
