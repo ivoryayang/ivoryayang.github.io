@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-01-23 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+Two papers were just accepted at NAACL 2025, one as first author and one as third! Will update once I upload the pre-prints to arxiv!
