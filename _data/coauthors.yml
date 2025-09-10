@@ -1,6 +1,6 @@
 "yang":
   - firstname: ["Ivory"]
-    url: https://ivoryayang.github.io/
+    # url: https://ivoryayang.github.io/
     highlight: true
 
 # "adams":
