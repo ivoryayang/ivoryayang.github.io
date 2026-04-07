@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-23 15:59:00-0400
+date: 2025-08-20 13:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Two papers were just accepted at NAACL 2025, one as first author and one as third!
+Two papers were accepted to EMNLP 2025, one Main (first author) and one Findings (co-author), see you in Suzhou!

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-8-1 15:59:00-0400
+date: 2024-11-29 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-My paper is accepted at WiNLP @ EMNLP 2024! Thankful for the travel grant provided by WiNLP to attend EMNLP in Miami.
+My first first-author paper on the Nüshu endangered language is accepted at COLING 2025, see you at Abu Dhabi!
