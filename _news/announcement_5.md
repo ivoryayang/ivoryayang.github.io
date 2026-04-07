@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers were just accepted tp NAACL 2025 Main (first author & co-author), see you in Albuquerque!
+Two papers were just accepted to NAACL 2025 Main (first author & co-author), see you in Albuquerque!
