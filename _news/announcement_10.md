@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My position paper has been accepted to ICML 2026! Like summer rain, it came in its own time :white_heart:
+One first-authored paper accepted to ICML 2026! Like summer rain, it came in its own time ~
