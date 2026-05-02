@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-authored paper accepted to ICML 2026! Like summer rain, it came in its own time ~
+One first-authored paper accepted to ICML 2026!
