@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-authored paper accepted to ICML 2026!
+One first-authored paper accepted to ICML 2026, see you in Seoul!
