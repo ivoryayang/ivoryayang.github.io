@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm joining Pocket FM as a Research Scientist Intern (GenAI) this summer, working on multilingual AI and cross-cultural long-context adaptation! :tada:
+I'm joining Pocket FM as a Research Scientist Intern (GenAI) this summer, working on multilingual AI and cross-cultural long-context adaptation! :star2:
